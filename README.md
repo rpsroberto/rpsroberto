@@ -48,6 +48,53 @@ Me chamo Roberto Pereira de Sousa, tenho 25 anos, estou cursando Sistemas da Inf
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Postman" 
+    title="Postman" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Cypress" 
+    title="Cypress" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="QA" 
+    title="Quality Assurance"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn-icons-png.flaticon.com/512/2721/2721298.png"
+/>
+
+<img 
+    align="left" 
+    alt="QA" 
+    title="Quality Assurance"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn-icons-png.flaticon.com/512/992/992700.png"
+/>
+
+<img 
+    align="left" 
+    alt="Scrum" 
+    title="Scrum / Metodologias Ágeis"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn-icons-png.flaticon.com/512/5969/5969046.png"
+/>
+<br clear="left"/>
+
+
 <br/>
 <br/>
 
