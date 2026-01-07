@@ -6,11 +6,9 @@ Me chamo Roberto Pereira de Sousa, tenho 25 anos, estou cursando Sistemas da Inf
 
 <div>
 <a href="https://instagram.com/rpsroberto" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "otaltorob@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:otaltorob@hotmail.com"> <img loading="lazy"  src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/roberto-pereira-de-sousa-3576891b8/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-Este é o meu [LinkedIn](https://www.linkedin.com/in/roberto-pereira-de-sousa-3576891b8/).  
 
 ### 🤖 Linguagens e Tecnologias
 
