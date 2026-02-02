@@ -2,7 +2,7 @@
 
 **`Estudante de Sistemas da Informação`**
 
-Sou estudante de Sistemas de Informação 5° Semestre, com foco na Área de QA / Analista de Qualidade de Software Júnior. Tenho foco em garantia da qualidade, atuando com testes manuais, plan test, test case, automatização de testes E2E com o Cypress e testes de API utilizando Postman. Experiência com lógica de programação, entendimento de regras de negócio, ambientizado a metologias agéis e com projetos de desenvolvimento e validação de sistemas.
+Estudante de Sistemas de Informação 5° Semestre, com foco na Área de QA / Analista de Qualidade de Software Júnior. Tenho foco em garantia da qualidade, atuando com testes manuais, plan test, test case, automatização de testes E2E com o Cypress e testes de API utilizando Postman. Experiência com lógica de programação, entendimento de regras de negócio, ambientizado a metologias agéis e com projetos de desenvolvimento e validação de sistemas.
 
 <div>
 <a href="https://instagram.com/rpsroberto" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
