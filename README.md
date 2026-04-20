@@ -1,6 +1,5 @@
 ## 👨🏻‍💻 Roberto Pereira 
 
-**`Estudante de Sistemas da Informação`**
 
 Analista de testes / Analista de Qualidade de Software Júnior. Tenho foco em garantia da qualidade, atuando com testes manuais, plan test, test case, automatização de testes E2E com o Cypress e testes de API utilizando Postman. Experiência com lógica de programação, entendimento de regras de negócio, ambientizado a metologias agéis e com projetos de desenvolvimento e validação de sistemas.
 
